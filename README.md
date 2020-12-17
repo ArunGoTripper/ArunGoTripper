@@ -7,7 +7,7 @@ Here are some quick things about me:
 - 🔭 I'm a Software Engineer at @goibibo
 - 🧑‍💻 Coding is my passion.
 - 📫 The best way to reach me is to send me an email(arunmittal@go-mmt.com / arunmittal53@gmail.com).
-- ⚡ Fun fact: I once drove to the Half Moon Bay for sun rise.
+- ⚡ Fun fact: I once drove to the Half Moon Bay for sunrise.
 
 <!--
 **ArunGoTripper/ArunGoTripper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
